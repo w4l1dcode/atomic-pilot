@@ -1,0 +1,6 @@
+.DS_Store
+*.yml
+*.yaml
+.idea
+*.sqlite
+*.database*
